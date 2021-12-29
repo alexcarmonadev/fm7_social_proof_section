@@ -1,13 +1,13 @@
 # Frontend Mentor - Social proof section solution
 
-:point_right: This is the [Social proof section](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-dX9m1bQbn) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm7_social_proof_section/)
 
 Give a ⭐️ if you like this project!
 
